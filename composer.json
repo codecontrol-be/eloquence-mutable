@@ -1,5 +1,5 @@
 {
-    "name": "sofa/eloquence-mutable",
+    "name": "codecontrol-be/eloquence-mutable",
     "description": "Flexible Searchable, Mappable, Metable, Validation and more extensions for Laravel Eloquent ORM.",
     "license": "MIT",
     "support": {
@@ -24,7 +24,7 @@
     ],
     "require": {
         "php": ">=7.1.0",
-        "sofa/eloquence-base": ">=5.5"
+        "codecontrol-be/eloquence-base": ">=5.5"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.5",
